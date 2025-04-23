@@ -18,3 +18,10 @@
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
+
+data/checksums.txt
+data/links.csv
+data/movies.csv
+data/ratings.csv
+data/README.txt
+data/tags.csv
