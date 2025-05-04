@@ -25,3 +25,6 @@ data/movies.csv
 data/ratings.csv
 data/README.txt
 data/tags.csv
+data/cf_model.npz
+data/sparse_matrix_cf.npz
+data/tfid_matrix_cbf.npz
